@@ -34,6 +34,7 @@ Open Tools  in thonny click on options then click on interpreter then choose  Mi
 
 
 Here we have only COM1 port ,but we don’t want it
+
 ![port](https://github.com/ChVeerababu/MFRC522_ESP32/blob/main/port.png?raw=true)
  have to select the port Silicon Labs CP210x USB to UART Bridge (COM3). 
 Here we can get any port like COM4…COM8 etc 
