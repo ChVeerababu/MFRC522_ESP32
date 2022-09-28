@@ -16,6 +16,7 @@ Small Led lights
 Install the thonny using below link: 
     https://thonny.org/
 Then click on windows, download latest version
+
 ![thonney](https://github.com/ChVeerababu/MFRC522_ESP32/blob/main/thonney.png?raw=true)
 
 After that download firmware file to configure the thonny using micropython(ESP32) with nodemcu.
@@ -23,6 +24,7 @@ After that download firmware file to configure the thonny using micropython(ESP3
 To download micropython firmware file use link:
                         https://micropython.org/download/esp32/
 Select the latest version of firmware file
+
 ![firmware](https://github.com/ChVeerababu/MFRC522_ESP32/blob/main/firmware.png?raw=true)
 
 
@@ -62,11 +64,12 @@ Click on install or update micropython
 Here again select Silicon Labs COM3 port and  Browse the firmware file (esp8266-1m-20220618-v1.19.1.bin)  along with path to install the micropython(in the starting  we gave link to download the firmware file)
 Select erase flash before installing
 Click on Install button
+
 ![firmware_upgrade](https://github.com/ChVeerababu/MFRC522_ESP32/blob/main/firmware_upgrade.png?raw=true)
 
 
 
- After that Clone the below program files                                                                  boot.py,     main.py,   mfrc522.py,   websocket.py    
+ After that Clone the below program files boot.py,     main.py,   mfrc522.py,   websocket.py    
 Click the below link it shows code, copy the code and paste in the notepad save the code with name boot.py
 boot.py file:
 
@@ -99,6 +102,7 @@ https://gist.githubusercontent.com/vdattu/45a2ef4ece49213f3e8f7ff231a31a77/raw/7
 
 Open thonny IDE to run program file
 IN Thonny click on Files then click on open ,  open the files which file we extract from zip for micropython programming files
+
 
 ![program](https://github.com/ChVeerababu/MFRC522_ESP32/blob/main/program.png?raw=true)
 
@@ -134,11 +138,13 @@ Open chrome/web browser on your mobile
 Enter the ip 192.168.4.1 and wait for 5-10 sec 
 It will take some time to connect to device
 It shows available Access points(networks) with security type shown as in below image
+
 ![access_page](https://github.com/ChVeerababu/MFRC522_ESP32/blob/main/access_page.png?raw=true)
 
 
 Select your access point ,enter password click on submit
 Now your device connected to internet
+
 ![success_page](https://github.com/ChVeerababu/MFRC522_ESP32/blob/main/success_page.png?raw=true)
 
 Reboot the device
