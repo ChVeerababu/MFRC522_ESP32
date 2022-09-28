@@ -16,7 +16,7 @@ Small Led lights
 Install the thonny using below link: 
     https://thonny.org/
 Then click on windows, download latest version
-
+![thonney](https://github.com/ChVeerababu/MFRC522_ESP32/blob/main/thonney.png?raw=true)
 
 After that download firmware file to configure the thonny using micropython(ESP32) with nodemcu.
 
