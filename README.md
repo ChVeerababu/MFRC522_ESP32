@@ -1,4 +1,4 @@
-# MFRC522_ESP32
+Installation procedure of ESP32
 
 Requirements:
 
@@ -149,4 +149,9 @@ Scan the tag/card on mfrc522 device
 When we scan the tag/card,the green light should be blink on the device and the device plays  buzzer sound
 The device data and tag data will store in database
 By calling an API we will get all the data
+ 
+
+
+
+
 
