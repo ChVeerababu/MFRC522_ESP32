@@ -23,16 +23,16 @@ After that download firmware file to configure the thonny using micropython(ESP3
 To download micropython firmware file use link:
                         https://micropython.org/download/esp32/
 Select the latest version of firmware file
-
+![firmware](https://github.com/ChVeerababu/MFRC522_ESP32/blob/main/firmware.png?raw=true)
 
 
 Open Tools  in thonny click on options then click on interpreter then choose  MicroPython(ESP32) .
 
-
+![module](https://github.com/ChVeerababu/MFRC522_ESP32/blob/main/module.png?raw=true)
 
 
 Here we have only COM1 port ,but we don’t want it
-
+![port](https://github.com/ChVeerababu/MFRC522_ESP32/blob/main/port.png?raw=true)
  have to select the port Silicon Labs CP210x USB to UART Bridge (COM3). 
 Here we can get any port like COM4…COM8 etc 
 On the above picture only COM1 port is available
@@ -62,7 +62,7 @@ Click on install or update micropython
 Here again select Silicon Labs COM3 port and  Browse the firmware file (esp8266-1m-20220618-v1.19.1.bin)  along with path to install the micropython(in the starting  we gave link to download the firmware file)
 Select erase flash before installing
 Click on Install button
-
+![firmware_upgrade](https://github.com/ChVeerababu/MFRC522_ESP32/blob/main/firmware_upgrade.png?raw=true)
 
 
 
@@ -100,8 +100,7 @@ https://gist.githubusercontent.com/vdattu/45a2ef4ece49213f3e8f7ff231a31a77/raw/7
 Open thonny IDE to run program file
 IN Thonny click on Files then click on open ,  open the files which file we extract from zip for micropython programming files
 
-
-
+![program](https://github.com/ChVeerababu/MFRC522_ESP32/blob/main/program.png?raw=true)
 
 First time when we connect the nodemcu device to cpu,if the device connects to wifi, on nodemcu the led light will turn on only for 10 to15 sec
 If the device doesn't connect to wifi ,the led light will not turn on and the light blinks on and off.
@@ -135,12 +134,12 @@ Open chrome/web browser on your mobile
 Enter the ip 192.168.4.1 and wait for 5-10 sec 
 It will take some time to connect to device
 It shows available Access points(networks) with security type shown as in below image
-
+![access_page](https://github.com/ChVeerababu/MFRC522_ESP32/blob/main/access_page.png?raw=true)
 
 
 Select your access point ,enter password click on submit
 Now your device connected to internet
-
+![success_page](https://github.com/ChVeerababu/MFRC522_ESP32/blob/main/success_page.png?raw=true)
 
 Reboot the device
 Connect the nodemcu  device again ,now the blue light  should be turn on the device
