@@ -74,7 +74,7 @@ Click on Install button
 Click the below link it shows code, copy the code and paste in the notepad save the code with name boot.py
 boot.py file:
 
-https://gist.githubusercontent.com/vdattu/818aaded9577d11fbffbe2659c1fef48/raw/e72969156fc6daef03aaf279886bd4a84f871266/ESP_32_boot.py 
+https://gist.githubusercontent.com/ChVeerababu/84b324013719e792ac83e3975d12d446/raw/32a55d7b0c2248a76da826eb615ed740c21428c1/boot.py
 
 Click on the below link it shows code, copy and paste the code in notepad ,save the code with name main.py
 
@@ -82,7 +82,7 @@ Click on the below link it shows code, copy and paste the code in notepad ,save 
 
 main.py file :
 
-https://gist.githubusercontent.com/vdattu/298a5aa759b42d03c457971af83a31af/raw/25619d8739f070c9bf414b93af333eaa34c34e9b/ESP_32_main.py 
+https://gist.githubusercontent.com/ChVeerababu/7c6138c94e079384aa09408886b7f863/raw/61ad5620d1efcad7b9c072980e7b9ca9c97126f5/main.py 
 
 
 wifi.conf file:
@@ -93,13 +93,13 @@ Click on the below link it shows code, copy and paste the code in notepad ,save 
 
 mfrc522.py file:
 
-https://gist.githubusercontent.com/vdattu/e579cd35683b042829bf023c820d5500/raw/b4b4e6d8ad2a1cc435b3cc6543a9bf6af8ab30bb/esp32_mfrc522.py
+https://gist.githubusercontent.com/ChVeerababu/0021f90e0be8b8888af5d6191007b8ea/raw/20fb5eaa5e04b0c5e1ab710b77ae847488d0c7ac/mfrc522.py 
 
 Click on the below link it shows code, copy and paste the code in notepad ,save the code with name websocket.py
 
 websocket.py file:
 
-https://gist.githubusercontent.com/vdattu/45a2ef4ece49213f3e8f7ff231a31a77/raw/7df6f1405b6b069f3b65d82c1a23b19dbd0997f1/ESP_32_websocket.py 
+https://gist.githubusercontent.com/ChVeerababu/35ae0a82e6b6d0c0f5422f733c91681e/raw/13d842584be66e018a6ec1c47380f524b17279ed/websocket.py
 
 Open thonny IDE to run program file
 IN Thonny click on Files then click on open ,  open the files which file we extract from zip for micropython programming files
